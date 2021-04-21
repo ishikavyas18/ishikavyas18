@@ -162,7 +162,9 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
 <br>
 
 <h2> Acheivements </h2>
+
 ### Qualified Google Code Jam Round 1
+
 ### Participated in Google Kick Start
 
 
