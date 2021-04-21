@@ -134,33 +134,6 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
 <br>
 <br>
 
-## Goals 2021
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="10%" align="center">
-        <span><strong>More Coding</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="300px">
-      </td>
-      <td width="10%" align="center">
-        <span><strong>Learn Something Everytime</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/1jVKrnScBhszwCYSdN/giphy.gif" width="300px">
-      </td>
-      <td width="10%" align="center">
-        <span><strong>Establishment of  Networks</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/wjEwvAMkkoUmLOc722/giphy.gif" width="300px">
-      </td>
-      <td width="10%" align="center">
-        <span><strong>Travel And Explore</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/l41YnKSInZIQxa2ly/giphy.gif" width="300px">
-      </td>
-      </tbody>
-</table>
-
-<br>
-<br>
-
 <h2> Acheivements </h2>
 
 ### Qualified Google Code Jam Round 1
