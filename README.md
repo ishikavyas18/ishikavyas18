@@ -207,14 +207,3 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
 <br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ishikavyas18.ishikavyas18)
 
-
-## Contact Details ☕
-
-  <a href="https://www.linkedin.com/in/ishika-vyas-8a214b1b1">
-    <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-
-  <a href="mailto:ishikavyas6261@gmail.com">
-    <img align="left" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
- 
