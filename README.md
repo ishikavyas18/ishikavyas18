@@ -67,10 +67,10 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
       </td>
       <td width="10%" align="center">
         <span><strong>Data Structure And Algorithms</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+        <img height="64px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fqph.fs.quoracdn.net%2Fmain-qimg-db82e2c8bfbe27bed2620309c8bfa187&imgrefurl=https%3A%2F%2Fwww.quora.com%2FShould-I-start-with-Data-structures-and-algorithms-or-try-to-do-some-projects-and-learn-DSA&tbnid=_YSoveZrP8GNkM&vet=12ahUKEwiZuOX4iI_wAhXPYisKHckLDgEQMyguegUIARCuAg..i&docid=sJLXvtX0TgT93M&w=560&h=315&q=data%20structures%20and%20algorithms&safe=active&ved=2ahUKEwiZuOX4iI_wAhXPYisKHckLDgEQMyguegUIARCuAg">
       </td>
 
-      </tbody>
+   </tbody>
 
 </table>
 <br>
