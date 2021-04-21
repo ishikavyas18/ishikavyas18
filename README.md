@@ -47,3 +47,91 @@ In general :- I am a **Technology Geek**  🇨🇾
 
   </tbody>
 </table>
+
+## Technologies I Use
+<br>
+<br>
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="10%" align="center">
+        <span><strong>PYTHON</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>FLASK</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>JAVA</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      </tbody>
+
+</table>
+<br>
+<br>
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="10%" align="center">
+        <span><strong>Git</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
+       </td> 
+      <td width="10%" align="center">
+        <span><strong>HTML5</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>  
+      <td width="10%" align="center">
+        <span><strong>CSS3</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      </tbody>
+</table>
+<br>
+<br>
+
+## Goals 2021
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="10%" align="center">
+        <span><strong>More Coding</strong></span><br><br><br>
+        <img height="200px" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300px">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>Read A Lot</strong></span><br><br><br>
+        <img height="200px" src="https://media.giphy.com/media/26tnlqgsV9gbihbO0/giphy.gif" width="300px">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>Build Networks</strong></span><br><br><br>
+        <img height="200px" src="https://media.giphy.com/media/3ohhwHHRj0H00XPbdm/giphy.gif" width="300px">
+      </td>
+      </tbody>
+</table>
+
+<br>
+<br>
+ 
+ ## GitHub Status
+
+![Ishika Vyas's github stats](https://github-readme-stats.vercel.app/api?username=shubhamchauda&show_icons=true&theme=radical)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamchauda&show_icons=true&theme=radical)
+<br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shubhamchauda.shubhamchauda)
+
+
+## Wanna Chat? ☕
+
+  <a href="https://www.linkedin.com/in/shubham-chauda-a2395a140/">
+    <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+
+  <a href="mailto:chaudashubham@gmail.com">
+    <img align="left" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
+ 
