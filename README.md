@@ -1,6 +1,3 @@
-
-<p>
-  <img src="https://media.giphy.com/media/xHEPtVlwQ4sJs07clI/giphy.gif" width="200px"></p>
   
   <h1 align= "center"><b>Hey there🙋‍♂️, This is Ishika Vyas!</b></h1>
 
