@@ -47,6 +47,62 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
 
   </tbody>
 </table>
+
+
+
+## Technologies I Use
+<br>
+<br>
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="10%" align="center">
+        <span><strong>PYTHON</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>FLASK</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>JAVA</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>ANDROID</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
+      </td>
+      </tbody>
+
+</table>
+<br>
+<br>
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="10%" align="center">
+        <span><strong>Git</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
+       </td> 
+      <td width="10%" align="center">
+        <span><strong>APACHE TOMCAT</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tomcat.svg">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>HTML5</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>  
+      <td width="10%" align="center">
+        <span><strong>CSS3</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      </tbody>
+</table>
+<br>
+<br>
+
 ## Goals 2021
 
 <table>
