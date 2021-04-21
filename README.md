@@ -6,11 +6,11 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![](https://img.shields.io/badge/LinkedIn-anshul2910-blue)](https://www.linkedin.com/in/ishika-vyas-8a214b1b1)
-[![](https://img.shields.io/badge/HackerRank-anshul2910-brightgreen)](https://www.hackerrank.com/anshul2910)
-[![](https://img.shields.io/badge/GeeksForGeeks-anshul2910-brightgreen)](https://auth.geeksforgeeks.org/user/anshul2910/)
-[![](https://img.shields.io/badge/StackOverFlow-anshul2910-important)](https://stackoverflow.com/story/anshul2910)
-[![](https://img.shields.io/badge/Gmail-2910anshul1997@gmail.com-red)](mailto:2910anshul1997@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-ishikavyas18-blue)](https://www.linkedin.com/in/ishika-vyas-8a214b1b1)
+[![](https://img.shields.io/badge/HackerRank-ishikavyas18-brightgreen)](https://www.hackerrank.com/ishikavyas)
+[![](https://img.shields.io/badge/GeeksForGeeks-ishikavyas18-brightgreen)](https://auth.geeksforgeeks.org/user/ishikavyas6261/profile)
+[![](https://img.shields.io/badge/StackOverFlow-ishikavyas18-important)](https://stackoverflow.com/story/anshul2910)
+[![](https://img.shields.io/badge/Gmail-ishikavyas6261@gmail.com-red)](mailto:ishikavyas6261@gmail.com)
 <a href="https://dev.to/anshul2910">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Anshul Chaudhary's DEV Profile" height="30" width="30">
 </a>
