@@ -6,7 +6,7 @@
 <br>
 
 ## About Me
-Software Engineering is a never ending puzzle that I am passionately engaged in solving. I believe in the power of prqgramming to transform and improve the lives of people around the world.
+Software Engineering is a never ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world.
 I'm experienced Software Engineer with demostrated history of working . Currently pursuing Bachelor of Engineering from Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore.
 Along with coding , I love to explore new places to travel. Both pursuits challenges in so many aspects of intellect : Creativity , Problem Solving and in many aspects.
 This is what keeps me up , a never ending thirst to create powerful things to share them with world.
