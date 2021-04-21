@@ -65,7 +65,6 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
         <span><strong>JAVA</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
-      
       </tbody>
 
 </table>
@@ -75,15 +74,7 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
 <table>
   <tbody>
     <tr valign="top">
-      <td width="10%" align="center">
-        <span><strong>Git</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
-       </td> 
-      <td width="10%" align="center">
-        <span><strong>APACHE TOMCAT</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tomcat.svg">
-      </td>
-      <td width="10%" align="center">
+         <td width="10%" align="center">
         <span><strong>HTML5</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>  
