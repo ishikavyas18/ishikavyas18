@@ -161,7 +161,7 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
         <span><strong>Hackerrank</strong></span><br><br><br>
         <a href="https://www.hackerrank.com/ishikavyas"></a>
 
-   <img height="200px" src=""https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png"" width="300px">
+   <img height="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png"" width="300px">
       </td>
       <td width="10%" align="center">
         <span><strong>Geeks For Geeks</strong></span><br><br><br>
