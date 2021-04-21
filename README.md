@@ -47,8 +47,7 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
 
   </tbody>
 </table>
-
-## Technical Specialization
+## Technologies I Use
 <br>
 <br>
 
@@ -60,16 +59,23 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="10%" align="center">
+        <span><strong>FLASK</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
+      </td>
+      <td width="10%" align="center">
         <span><strong>JAVA</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
-      
-      
+      <td width="10%" align="center">
+        <span><strong>ANDROID</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
+      </td>
       </tbody>
 
 </table>
 <br>
 <br>
+
 
 <table>
   <tbody>
