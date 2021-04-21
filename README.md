@@ -50,7 +50,7 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
 
 
 
-## Technologies I Use
+## Technical Domain
 <br>
 <br>
 
@@ -65,6 +65,11 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
         <span><strong>JAVA</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
+      <td width="10%" align="center">
+        <span><strong>Data Structure And Algorithms</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+
       </tbody>
 
 </table>
