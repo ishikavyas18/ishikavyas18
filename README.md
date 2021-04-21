@@ -106,13 +106,6 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
         <span><strong>Build Networks</strong></span><br><br><br>
         <img height="200px" src="https://media.giphy.com/media/3ohhwHHRj0H00XPbdm/giphy.gif" width="300px">
       </td>
-      <td width="10%" align="center">
-        <span><strong>Travel And Explore</strong></span><br><br><br>
-        <img height="200px" src="<td width="10%" align="center">
-        <span><strong>Build Networks</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/3ohhwHHRj0H00XPbdm/giphy.gif" width="300px">
-      </td>" width="300px">
-      </td>
       </tbody>
 </table>
 
