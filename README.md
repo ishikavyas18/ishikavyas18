@@ -118,11 +118,11 @@ In general :- I am a **Technology Geek**  🇨🇾
  
  ## GitHub Status
 
-![Ishika Vyas's github stats](https://github-readme-stats.vercel.app/api?username=shubhamchauda&show_icons=true&theme=radical)
+![Ishika Vyas's github stats](https://github-readme-stats.vercel.app/api?username=ishikavyas18&show_icons=true&theme=radical)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamchauda&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishikavyas18&show_icons=true&theme=radical)
 <br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shubhamchauda.shubhamchauda)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ishikavyas18.ishikavyas18)
 
 
 ## Wanna Chat? ☕
