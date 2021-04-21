@@ -150,6 +150,17 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
 
 <br>
 <br>
+
+## Coding Platform
+<a href="https://www.hackerrank.com/ishikavyas">
+    <img align="left" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" />
+  </a>
+
+  <a href="mailto:ishikavyas6261@gmail.com">
+    <img align="left" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
+ 
+
  
  ## GitHub Status
 
