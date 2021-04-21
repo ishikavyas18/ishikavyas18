@@ -22,26 +22,19 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
 <table>
   <tbody>
     <tr valign="top">
-      <td width="10%" align="center">
-        <span><strong>Pycharm</strong></span><br><br><br>
-        <img height="64px" src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png">
-      </td>
-      <td width="10%" align="center">
+        <td width="10%" align="center">
         <span><strong>Python</strong></span><br><br><br>
         <img height="64px" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png">
       </td>
-      <td width="10%" align="center">
-        <span><strong>Netbeans</strong></span><br><br><br>
-        <img height="64px" src="https://seeklogo.com/images/N/NetBeans-logo-C762AE6DB8-seeklogo.com.png">
-      </td>
-      <td width="10%" align="center">
-        <span><strong>JAVA</strong></span><br><br><br>
-        <img height="64px" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png">
-      </td>
-      <td width="10%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
-        <img height="64px" src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png">
-      </td>
+      
+   <td width="10%" align="center">
+      <span><strong>JAVA</strong></span><br><br><br>
+      <img height="64px" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png">
+    </td>
+   <td width="10%" align="center">
+      <span><strong>MySql</strong></span><br><br><br>
+      <img height="64px" src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png">
+    </td>
       
       
 
@@ -128,10 +121,8 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
 
   </tbody>
 </table>
-
-
-
-
+<br>
+<br>
 
 ## Goals 2021
 
