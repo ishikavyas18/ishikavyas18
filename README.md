@@ -26,7 +26,7 @@ This is what keeps me up , a never ending thirst to create powerful things to sh
 - 🤝 I’m looking internships in Python to further improve my skills
 
 In general :- I am a **ALL Time Curious Geek**  🇨🇾
-<p><a href="https://drive.google.com/file/d/1qc1KHmxU04BuUQLPNyBMvqBHkD9kS7Ut/view?usp=sharing"><img height="15px"  width="15px" src="https://github.com/shubhamchauda/shubhamchauda/blob/master/1486485559-118arrow-down-download-downloads-downloading-save_81191.png"> : Download Resume</a></p>
+
 
 ## Technologies currently using 
 <table>
