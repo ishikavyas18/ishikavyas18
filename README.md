@@ -69,6 +69,7 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
         <span><strong>Data Structure And Algorithms</strong></span><br><br><br>
         <img height="64px" src="https://qph.fs.quoracdn.net/main-qimg-db82e2c8bfbe27bed2620309c8bfa187">
       </td>
+      
 
    </tbody>
 
@@ -87,7 +88,12 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
         <span><strong>CSS3</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      </tbody>
+      <td width="10%" align="center">
+        <span><strong>Big Data Analytics</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.educba.com/academy/wp-content/uploads/2018/12/Big-Data.jpg.webp">
+      </td>
+
+   </tbody>
 </table>
 <br>
 <br>
