@@ -1,6 +1,6 @@
 
 <p>
-  <img src="https://media.giphy.com/media/xT9Ighalo1nEFZIpMI/giphy.gif" width="200px"></p>
+  <img src="https://media.giphy.com/media/xHEPtVlwQ4sJs07clI/giphy.gif" width="200px"></p>
 
 # 𝗜'𝗺 Ishika  
 <br>
