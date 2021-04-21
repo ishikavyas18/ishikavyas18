@@ -186,14 +186,6 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
 <br>
 
 
-## Coding Platform
-
-  <a href="mailto:ishikavyas6261@gmail.com">
-    <img align="left" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
- 
-
- 
  ## GitHub Status
 
 ![Ishika Vyas's github stats](https://github-readme-stats.vercel.app/api?username=ishikavyas18&show_icons=true&theme=radical)
