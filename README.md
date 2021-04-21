@@ -166,11 +166,18 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
       </td>
       <td width="10%" align="center">
         <span><strong>Geeks For Geeks</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/1jVKrnScBhszwCYSdN/giphy.gif" width="300px">
-      </td>
+         <a href="https://auth.geeksforgeeks.org/user/ishikavyas6261/profile">
+
+   <img height="200px" src="https://img.icons8.com/color/452/GeeksforGeeks.png" width="300px">
+   </a>
+       
+  </td>
       <td width="10%" align="center">
         <span><strong>Stack OverFlow</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/wjEwvAMkkoUmLOc722/giphy.gif" width="300px">
+         <a href="https://auth.geeksforgeeks.org/user/ishikavyas6261/profile">
+
+   <img height="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="300px">
+   </a>
       </td>
       </tbody>
 </table>
