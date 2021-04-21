@@ -161,36 +161,10 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
 <br>
 <br>
 
+<h2> Acheivements </h2>
+### Qualified Google Code Jam Round 1
+### Participated in Google Kick Start
 
-## Coding Platforms
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="10%" align="center">
-        <span><strong>Hackerrank</strong></span><br><br><br>
-        <a href="https://www.hackerrank.com/ishikavyas">
-
-   <img height="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" width="300px">
-   </a>
-      </td>
-      <td width="10%" align="center">
-        <span><strong>Geeks For Geeks</strong></span><br><br><br>
-         <a href="https://auth.geeksforgeeks.org/user/ishikavyas6261/profile">
-
-   <img height="200px" src="https://img.icons8.com/color/452/GeeksforGeeks.png" width="300px">
-   </a>
-       
-  </td>
-      <td width="10%" align="center">
-        <span><strong>Stack OverFlow</strong></span><br><br><br>
-         <a href="https://auth.geeksforgeeks.org/user/ishikavyas6261/profile">
-
-   <img height="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="300px">
-   </a>
-      </td>
-      </tbody>
-</table>
 
 <br>
 <br>
