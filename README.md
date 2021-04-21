@@ -15,7 +15,7 @@ This is what keeps me up , a never ending thirst to create powerful things to sh
 - 🌱 I’m currently learning State of Python
 - 🤝 I’m looking internships in Python to further improve my skills
 
-In general :- I am a **Technology Geek**  🇨🇾
+In general :- I am a **ALL Time Curious Geek**  🇨🇾
 <p><a href="https://drive.google.com/file/d/1qmqD4sT4_cO7Rtjf8Kk6CQAgZWmu2al8/view?usp=sharing"><img height="15px"  width="15px" src="https://github.com/shubhamchauda/shubhamchauda/blob/master/1486485559-118arrow-down-download-downloads-downloading-save_81191.png"> : Download Resume</a></p>
 
 ## Technologies currently using 
@@ -32,7 +32,7 @@ In general :- I am a **Technology Geek**  🇨🇾
       </td>
       <td width="10%" align="center">
         <span><strong>Netbeans</strong></span><br><br><br>
-        <img height="64px" src="hhttps://seeklogo.com/images/N/NetBeans-logo-C762AE6DB8-seeklogo.com.png">
+        <img height="64px" src="https://seeklogo.com/images/N/NetBeans-logo-C762AE6DB8-seeklogo.com.png">
       </td>
       <td width="10%" align="center">
         <span><strong>JAVA</strong></span><br><br><br>
@@ -40,7 +40,7 @@ In general :- I am a **Technology Geek**  🇨🇾
       </td>
       <td width="10%" align="center">
         <span><strong>MySql</strong></span><br><br><br>
-        <img height="64px" src="https://seeklogo.com/images/M/MySQL-logo-6C88CC06F1-seeklogo.com.png">
+        <img height="64px" src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png">
       </td>
       
       
