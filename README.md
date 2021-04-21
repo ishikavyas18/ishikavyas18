@@ -98,6 +98,41 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
 <br>
 <br>
 
+
+## Tools And Editors
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="10%" align="center">
+        <span><strong>Pycharm</strong></span><br><br><br>
+        <img height="64px" src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>Jupyter Notebook</strong></span><br><br><br>
+        <img height="64px" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>Netbeans</strong></span><br><br><br>
+        <img height="64px" src="https://seeklogo.com/images/N/NetBeans-logo-C762AE6DB8-seeklogo.com.png">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>Visual Studio</strong></span><br><br><br>
+        <img height="64px" src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>MySql</strong></span><br><br><br>
+        <img height="64px" src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png">
+      </td>
+      
+      
+
+  </tbody>
+</table>
+
+
+
+
+
 ## Goals 2021
 
 <table>
