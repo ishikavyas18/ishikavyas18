@@ -8,7 +8,7 @@
 ## About Me
 Software Engineering is a never ending puzzle that I am passionately engaged in solving. I believe in the power of prqgramming to transform and improve the lives of people around the world.
 I'm experienced Software Engineer with demostrated history of working . Currently pursuing Bachelor of Engineering from Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore.
-Along with coding , I love to explore new places to travel. Both pursuits challenges in so many aspects of intellect : creativity , problem solving and in many aspects.
+Along with coding , I love to explore new places to travel. Both pursuits challenges in so many aspects of intellect : Creativity , Problem Solving and in many aspects.
 This is what keeps me up , a never ending thirst to create powerful things to share them with world.
 <br>
 
@@ -48,7 +48,7 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
   </tbody>
 </table>
 
-## Technologies I Use
+## Technical Specialization
 <br>
 <br>
 
@@ -63,6 +63,11 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
         <span><strong>JAVA</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
+      <td width="10%" align="center">
+        <span><strong>Data Structure and Algorithms</strong></span><br><br><br>
+        <img height="64px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fqph.fs.quoracdn.net%2Fmain-qimg-db82e2c8bfbe27bed2620309c8bfa187&imgrefurl=https%3A%2F%2Fwww.quora.com%2FShould-I-start-with-Data-structures-and-algorithms-or-try-to-do-some-projects-and-learn-DSA&tbnid=_YSoveZrP8GNkM&vet=12ahUKEwil9onEhY_wAhUws0sFHUdBCsAQMygoegUIARCdAg..i&docid=sJLXvtX0TgT93M&w=560&h=315&q=data%20structures%20and%20algorithms&safe=active&ved=2ahUKEwil9onEhY_wAhUws0sFHUdBCsAQMygoegUIARCdAg">
+      </td>
+      
       </tbody>
 
 </table>
@@ -71,11 +76,6 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
 
 <table>
   <tbody>
-    <tr valign="top">
-      <td width="10%" align="center">
-        <span><strong>Git</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
-       </td> 
       <td width="10%" align="center">
         <span><strong>HTML5</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
