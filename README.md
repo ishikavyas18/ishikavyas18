@@ -58,7 +58,7 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
         <span><strong>PYTHON</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-      
+      <tr valign="top>
       <td width="10%" align="center">
         <span><strong>JAVA</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
