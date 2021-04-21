@@ -6,12 +6,14 @@
 <br>
 
 ## About Me
-
-I'm a Junior Year student pursuing Master of Computer Applications from Devi Ahilya Vishwavidyalaya, Indore. I'm a passionate learner who's always willing to learn and apply technologies across various domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that, I love to capture moments.I am Music Addicted.
+Software Engineering is a never ending puzzle that I am passionately engaged in solving. I believe in the power of prqgramming to transform and improve the lives of people around the world.
+I'm experienced Software Engineer with demostrated history of working . Currently pursuing Bachelor of Engineering from Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore.
+Along with coding , I love to explore new places to travel. Both pursuits challenges in so many aspects of intellect : creativity , problem solving and in many aspects.
+This is what keeps me up , a never ending thirst to create powerful things to share them with world.
 <br>
 
-- 🌱 I’m currently learning State of the Machine Learning,Deep Learning,Computer Vision
-- 🤝 I’m looking to collaborate on data science and Machine Learning,Deep Learning,Computer Vision projects
+- 🌱 I’m currently learning State of Python
+- 🤝 I’m looking internships in Python to further improve my skills
 
 In general :- I am a **Technology Geek**  🇨🇾
 <p><a href="https://drive.google.com/file/d/1qmqD4sT4_cO7Rtjf8Kk6CQAgZWmu2al8/view?usp=sharing"><img height="15px"  width="15px" src="https://github.com/shubhamchauda/shubhamchauda/blob/master/1486485559-118arrow-down-download-downloads-downloading-save_81191.png"> : Download Resume</a></p>
@@ -21,16 +23,27 @@ In general :- I am a **Technology Geek**  🇨🇾
   <tbody>
     <tr valign="top">
       <td width="10%" align="center">
-        <span><strong>Tensorflow</strong></span><br><br><br>
-        <img height="64px" src="https://seeklogo.com/images/T/tensorflow-logo-AE5100E55E-seeklogo.com.png">
+        <span><strong>Pycharm</strong></span><br><br><br>
+        <img height="64px" src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png">
       </td>
       <td width="10%" align="center">
-        <span><strong>Keras</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg">
+        <span><strong>Python</strong></span><br><br><br>
+        <img height="64px" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png">
       </td>
       <td width="10%" align="center">
-        <span><strong>Linux</strong></span><br><br><br>
-        <img height="64px" src="https://seeklogo.com/images/L/Linux_Tux-logo-1439B51966-seeklogo.com.png">
+        <span><strong>Netbeans</strong></span><br><br><br>
+        <img height="64px" src="hhttps://seeklogo.com/images/N/NetBeans-logo-C762AE6DB8-seeklogo.com.png">
       </td>
+      <td width="10%" align="center">
+        <span><strong>JAVA</strong></span><br><br><br>
+        <img height="64px" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>MySql</strong></span><br><br><br>
+        <img height="64px" src="https://seeklogo.com/images/M/MySQL-logo-6C88CC06F1-seeklogo.com.png">
+      </td>
+      
+      
+
   </tbody>
 </table>
