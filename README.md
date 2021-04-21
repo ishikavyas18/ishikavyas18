@@ -8,9 +8,6 @@
 [![](https://img.shields.io/badge/GeeksForGeeks-ishikavyas18-brightgreen)](https://auth.geeksforgeeks.org/user/ishikavyas6261/profile)
 [![](https://img.shields.io/badge/Resume-ishikavyas18-important)](https://drive.google.com/file/d/1qc1KHmxU04BuUQLPNyBMvqBHkD9kS7Ut/view?usp=sharing)
 [![](https://img.shields.io/badge/Gmail-ishikavyas6261@gmail.com-red)](mailto:ishikavyas6261@gmail.com)
-<a href="https://dev.to/anshul2910">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Anshul Chaudhary's DEV Profile" height="30" width="30">
-</a>
 
 
 <br>
