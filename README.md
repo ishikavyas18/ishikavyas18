@@ -151,10 +151,34 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
 <br>
 <br>
 
+
+## Coding Platforms
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="10%" align="center">
+        <span><strong>Hackerrank</strong></span><br><br><br>
+        <a href="https://www.hackerrank.com/ishikavyas"></a>
+
+   <img height="200px" src=""https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png"" width="300px">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>Geeks For Geeks</strong></span><br><br><br>
+        <img height="200px" src="https://media.giphy.com/media/1jVKrnScBhszwCYSdN/giphy.gif" width="300px">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>Stack OverFlow</strong></span><br><br><br>
+        <img height="200px" src="https://media.giphy.com/media/wjEwvAMkkoUmLOc722/giphy.gif" width="300px">
+      </td>
+      </tbody>
+</table>
+
+<br>
+<br>
+
+
 ## Coding Platform
-<a href="https://www.hackerrank.com/ishikavyas">
-    <img align="left" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" />
-  </a>
 
   <a href="mailto:ishikavyas6261@gmail.com">
     <img align="left" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
