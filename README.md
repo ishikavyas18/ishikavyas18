@@ -60,10 +60,6 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="10%" align="center">
-        <span><strong>FLASK</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
-      </td>
-      <td width="10%" align="center">
         <span><strong>JAVA</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
@@ -100,15 +96,22 @@ In general :- I am a **ALL Time Curious Geek**  🇨🇾
     <tr valign="top">
       <td width="10%" align="center">
         <span><strong>More Coding</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300px">
+        <img height="200px" src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="300px">
       </td>
       <td width="10%" align="center">
-        <span><strong>Read A Lot</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/26tnlqgsV9gbihbO0/giphy.gif" width="300px">
+        <span><strong>Learn Something Everytime</strong></span><br><br><br>
+        <img height="200px" src="https://media.giphy.com/media/1jVKrnScBhszwCYSdN/giphy.gif" width="300px">
       </td>
       <td width="10%" align="center">
         <span><strong>Build Networks</strong></span><br><br><br>
         <img height="200px" src="https://media.giphy.com/media/3ohhwHHRj0H00XPbdm/giphy.gif" width="300px">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>Travel And Explore</strong></span><br><br><br>
+        <img height="200px" src="<td width="10%" align="center">
+        <span><strong>Build Networks</strong></span><br><br><br>
+        <img height="200px" src="https://media.giphy.com/media/3ohhwHHRj0H00XPbdm/giphy.gif" width="300px">
+      </td>" width="300px">
       </td>
       </tbody>
 </table>
